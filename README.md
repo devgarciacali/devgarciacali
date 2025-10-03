@@ -40,12 +40,7 @@
 
 </td>
 
-## 🛠️ Tecnologías que manejo
-<p>
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,astro,bootstrap,kotlin,cpp,laravel,arduino,java,css,html,js,mongodb,php,mysql,react,firebase,gtk,git,github,vscode,bash,linux,ai,ps&perline=12" />
-  </a>
-</p>
+
 
 <td width="40%" align="center">
 
@@ -54,7 +49,12 @@
 </td>
 </tr>
 </table>
-
+## 🛠️ Tecnologías que manejo
+<p>
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,astro,bootstrap,kotlin,cpp,laravel,arduino,java,css,html,js,mongodb,php,mysql,react,firebase,gtk,git,github,vscode,bash,linux,ai,ps&perline=12" />
+  </a>
+</p>
 ---
 
 ## 📊 Mis estadísticas en GitHub
