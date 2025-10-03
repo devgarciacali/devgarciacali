@@ -14,16 +14,6 @@
 
 🎯 Mi objetivo es crecer como profesional, colaborar en proyectos open-source y desarrollar soluciones escalables e innovadoras.  
 
----
-
-## 🛠️ Tecnologías que manejo
-<p>
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,astro,bootstrap,kotlin,cpp,laravel,arduino,java,css,html,js,mongodb,php,mysql,react,firebase,gtk,git,github,vscode,bash,linux,ai,ps&perline=12" />
-  </a>
-</p>
-
----
 
 ## 🌍 Conecta conmigo
 <p>
