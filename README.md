@@ -35,6 +35,8 @@
 </tr>
 </table>
 
+## 🌍 Conecta conmigo <p> <a href="https://www.tiktok.com/@_eldelam_" target="_blank"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/> </a> <a href="https://www.instagram.com/devgarcia_/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="mailto:garciacalimanegarcia@gmailcom"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+
 
 ## 🛠️ Tecnologías que manejo
 
