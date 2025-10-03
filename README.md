@@ -48,7 +48,6 @@
   </a>
 </p>
 ---
----
 
 ## 📊 Mis estadísticas en GitHub
 <p align="center">
