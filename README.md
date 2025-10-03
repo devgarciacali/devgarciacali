@@ -5,10 +5,13 @@
 # 👋 Hola, soy Jose Manuel  
 
 💻 Desarrollador apasionado por la **tecnología**, la **programación** y la **innovación**.  
+
 🚀 Siempre explorando nuevas herramientas y creando proyectos que aporten valor.  
+
 🌱 Actualmente enfocado en mejorar mis habilidades en **desarrollo web full stack** y buenas prácticas de código.  
 
 ✨ Me interesa la **inteligencia artificial**, la **ciberseguridad** y la **automatización de procesos**.  
+
 🎯 Mi objetivo es crecer como profesional, colaborar en proyectos open-source y desarrollar soluciones escalables e innovadoras.  
 
 ---
@@ -28,13 +31,13 @@
 
 ## 🌍 Conecta conmigo
 <p>
-  <a href="https://www.tiktok.com/@TUTIKTOK" target="_blank">
+  <a href="https://www.tiktok.com/@_eldelam_" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/TUINSTAGRAM" target="_blank">
+  <a href="https://www.instagram.com/devgarcia_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:tucorreo@ejemplo.com">
+  <a href="mailto:garciacalimanegarcia@gmailcom">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
