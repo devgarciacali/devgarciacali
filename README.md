@@ -40,6 +40,13 @@
 
 </td>
 
+## 🛠️ Tecnologías que manejo
+<p>
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,astro,bootstrap,kotlin,cpp,laravel,arduino,java,css,html,js,mongodb,php,mysql,react,firebase,gtk,git,github,vscode,bash,linux,ai,ps&perline=12" />
+  </a>
+</p>
+
 <td width="40%" align="center">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height="450" alt="Coding"/>
