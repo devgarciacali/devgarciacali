@@ -34,7 +34,7 @@
 
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/3o7TKP7rnYyEpKzG5W/giphy.gif" width="350" height="450" alt="Coding Vertical"/>
+<img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" width="350" height="450" alt="Coding Vertical"/>
 
 </td>
 </tr>
