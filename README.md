@@ -47,7 +47,6 @@
     <img src="https://skillicons.dev/icons?i=androidstudio,astro,bootstrap,kotlin,cpp,laravel,arduino,java,css,html,js,mongodb,php,mysql,react,firebase,gtk,git,github,vscode,bash,linux,ai,ps&perline=12" />
   </a>
 </p>
----
 
 ## 📊 Mis estadísticas en GitHub
 <p align="center">
