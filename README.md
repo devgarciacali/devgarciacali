@@ -1,19 +1,15 @@
-<!-- Banner de bienvenida -->
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="banner"/>
-
----
-
 <table>
 <tr>
 <td width="60%" valign="top">
 
 # 👋 Hola, soy Jose Manuel  
 
-💻 Soy un desarrollador apasionado por la **tecnología**, la **programación** y la **innovación**.  
-🚀 Me gusta crear proyectos que aporten valor, explorar nuevas tendencias en el mundo del software y aprender continuamente.  
+💻 Desarrollador apasionado por la **tecnología**, la **programación** y la **innovación**.  
+🚀 Siempre explorando nuevas herramientas y creando proyectos que aporten valor.  
+🌱 Actualmente enfocado en mejorar mis habilidades en **desarrollo web full stack** y buenas prácticas de código.  
 
-✨ Actualmente estoy reforzando mis conocimientos en **desarrollo web full stack** y en el uso de tecnologías modernas.  
-🎯 Mi meta es crecer como profesional, colaborar en proyectos open-source y construir soluciones útiles que impacten positivamente.  
+✨ Me interesa la **inteligencia artificial**, la **ciberseguridad** y la **automatización de procesos**.  
+🎯 Mi objetivo es crecer como profesional, colaborar en proyectos open-source y desarrollar soluciones escalables e innovadoras.  
 
 ---
 
@@ -26,6 +22,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+</p>
+
+---
+
+## 🌍 Conecta conmigo
+<p>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:tucorreo@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 </td>
