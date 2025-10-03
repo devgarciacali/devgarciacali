@@ -18,9 +18,7 @@
     
 - 💻 Interesado en **Inteligencia Artificial, Ciberseguridad y Automatización de Procesos**  
 
-- 💬 Pregúntame sobre **Desarrollo web, PHP, JavaScript, React, Laravel**  
-
-- 📫 Cómo contactarme: **garciacalimanegarcia@gmail.com**  
+- 💬 Pregúntame sobre **Desarrollo web, PHP, JavaScript, React, Laravel, etc.**  
 
 - ⚡ Dato curioso: **Siempre explorando nuevas tecnologías y creando proyectos**  
 
