@@ -14,10 +14,14 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 Actualmente mejorando mis habilidades en **Desarrollo Web Full Stack**  
+- 🌱 Actualmente mejorando mis habilidades en **Desarrollo Web**
+    
 - 💻 Interesado en **Inteligencia Artificial, Ciberseguridad y Automatización de Procesos**  
+
 - 💬 Pregúntame sobre **Desarrollo web, PHP, JavaScript, React, Laravel**  
+
 - 📫 Cómo contactarme: **garciacalimanegarcia@gmail.com**  
+
 - ⚡ Dato curioso: **Siempre explorando nuevas tecnologías y creando proyectos**  
 
 </td>
