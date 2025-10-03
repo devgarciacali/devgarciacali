@@ -1,10 +1,13 @@
 <!-- Banner de bienvenida -->
-<img src="https://i.ibb.co/4VhV9tB/github-banner.png" width="100%" alt="banner"/>
+<img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/master/assets/banner.png" width="100%" alt="banner"/>
 
 # 👋 Hola, soy Jose Manuel  
 
-💻 Desarrollador apasionado por la tecnología, la programación y el aprendizaje constante.  
-🚀 Siempre explorando nuevas herramientas y creando proyectos innovadores.  
+💻 Soy un desarrollador apasionado por la tecnología, la programación y la innovación.  
+Me gusta crear proyectos que aporten valor, explorar nuevas tendencias en el mundo del software y aprender continuamente.  
+
+📚 Actualmente estoy reforzando mis conocimientos en **desarrollo web full stack** y en el uso de tecnologías modernas.  
+✨ Mi meta es crecer como profesional, aportar a la comunidad open-source y seguir construyendo soluciones útiles.  
 
 ---
 
@@ -28,6 +31,22 @@
 </p>
 
 ---
+
+## 🌌 Algo más sobre mí
+<p align="right">
+  <img src="https://i.ibb.co/8xJj7R0/coding.gif" width="300" alt="coding"/>
+</p>
+
+- 🌱 Actualmente aprendiendo **frameworks modernos** y mejores prácticas de desarrollo.  
+- 🔥 Me interesa la **inteligencia artificial**, la **ciberseguridad** y el **desarrollo web escalable**.  
+- 🎯 Objetivo: Convertirme en un **desarrollador full stack** capaz de liderar proyectos innovadores.  
+- 🤝 Me gusta colaborar en proyectos open-source y compartir conocimientos.  
+- 📫 Contáctame: **tunombre@correo.com**  
+
+---
+
+⭐️ Hecho con pasión por [Jose Manuel](https://github.com/devgarcia)
+
 
 ## 🌌 Algo más sobre mí
 - 🌱 Actualmente aprendiendo **frameworks web** y nuevas tecnologías.  
