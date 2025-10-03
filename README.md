@@ -46,13 +46,3 @@ Me gusta crear proyectos que aporten valor, explorar nuevas tendencias en el mun
 ---
 
 ⭐️ Hecho con pasión por [Jose Manuel](https://github.com/devgarcia)
-
-
-## 🌌 Algo más sobre mí
-- 🌱 Actualmente aprendiendo **frameworks web** y nuevas tecnologías.  
-- 🎯 Objetivo: Convertirme en un desarrollador full stack.  
-- 📫 Contáctame: **tunombre@correo.com**  
-
----
-
-⭐️ Hecho con pasión y curiosidad por [Jose Manuel](https://github.com/TU_USUARIO)
