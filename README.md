@@ -39,6 +39,7 @@
 </td>
 </tr>
 </table>
+---
 ## 🛠️ Tecnologías que manejo
 <p>
  <a href="https://skillicons.dev">
