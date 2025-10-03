@@ -34,9 +34,10 @@
 
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" width="350" height="450" alt="Coding Vertical"/>
+<img src="https://media.giphy.com/media/26gsgIp8JZ7Q3gMHS/giphy.gif" width="350" height="450" alt="Coding Vertical"/>
 
 </td>
+
 </tr>
 </table>
 
