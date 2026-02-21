@@ -10,6 +10,30 @@
   <img src="https://komarev.com/ghpvc/?username=devgarcia&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="devgarcia" /> 
 </p>
 
+---
+
+## 🎥 Últimos videos en mi TikTok
+
+<p align="center">
+  <a href="https://www.tiktok.com/@dev_mane_" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20mi%20TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.tiktok.com/@dev_mane_" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devgarcia&repo=devgarcia&theme=tokyonight" width="30%" />
+  </a>
+  <a href="https://www.tiktok.com/@dev_mane_" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devgarcia&theme=tokyonight" width="30%" />
+  </a>
+  <a href="https://www.tiktok.com/@dev_mane_" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgarcia&layout=compact&theme=tokyonight" width="30%" />
+  </a>
+</p>
+
+---
+
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
