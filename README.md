@@ -41,6 +41,9 @@
   </a> 
   <a href="mailto:garciacalimanegarcia@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
+  </a>
+  <a href="https://wa.me/527701281485">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=whatsapp&logoColor=white"/> 
   </a> 
 </p>
 
