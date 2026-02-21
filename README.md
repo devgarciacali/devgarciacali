@@ -75,12 +75,5 @@
 
 ---
 
-<br>
-
-<p align="center">
-  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
-</p>
-
----
 
 ⭐️ Hecho con pasión por <a href="https://github.com/devgarcia">Jose Manuel</a>
