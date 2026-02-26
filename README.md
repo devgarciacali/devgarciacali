@@ -53,7 +53,7 @@
 
 <p align="center">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,cpp,laravel,livewire,windows,vite,arduino,java,css,html,js,mongodb,php,mysql,git,github,vscode,discord,idea&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,cpp,laravel,blade,windows,vite,arduino,java,css,html,js,mongodb,php,mysql,git,github,vscode,discord,idea&perline=12" />
   </a>
 </p>
 
