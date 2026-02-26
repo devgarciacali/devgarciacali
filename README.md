@@ -19,7 +19,7 @@
     
 - 💻 Interesado en **Inteligencia Artificial, Ciberseguridad y Automatización de Procesos**  
 
-- 💬 Pregúntame sobre **Desarrollo web, PHP, JavaScript, React, Laravel, etc.**  
+- 💬 Pregúntame sobre **Desarrollo web, PHP, JavaScript, Laravel, etc.**  
 
 - ⚡ Dato curioso: **Siempre explorando nuevas tecnologías y creando proyectos**  
 
