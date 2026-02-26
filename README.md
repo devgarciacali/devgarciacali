@@ -47,13 +47,23 @@
   </a> 
 </p>
 
----
 
+---
 ## 🛠️ Tecnologías que manejo
 
 <p align="center">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,cpp,laravel,arduino,java,css,html,js,mongodb,php,mysql,git,github,vscode,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,cpp,laravel,livewire,windows,vite,arduino,java,css,html,js,mongodb,php,mysql,git,github,vscode,discord,idea&perline=12" />
+  </a>
+</p>
+
+---
+
+## Tecnologias dening que manejo
+
+<p align="center">
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,ai &perline=12" />
   </a>
 </p>
 
