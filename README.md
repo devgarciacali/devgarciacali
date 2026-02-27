@@ -59,7 +59,7 @@
 
 ---
 
-## Tecnologias dening que manejo
+## Tecnologias desing que manejo
 
 <p align="center">
  <a href="https://skillicons.dev">
