@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">¡Hola 👋, soy el Ing. Jose Manuel Garcia!</h1>
-<h3 align="center">Ingeniero en desarrollo y gestion de software en buca de nuevas tecnologias e innovadoras aplicaciones</h3>
+<h3 align="center">Ingeniero en desarrollo y gestion de software en busca de nuevas tecnologias e innovadoras aplicaciones</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=devgarcia&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="devgarcia" /> 
