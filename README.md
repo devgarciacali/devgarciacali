@@ -26,8 +26,8 @@
 <!--Intro end-->
 
 </p>
-<br>
 
+<br>
 
 ---
 ## 🌍 Conecta conmigo
