@@ -11,25 +11,22 @@
   <img src="https://komarev.com/ghpvc/?username=devgarcia&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="devgarcia" /> 
 </p>
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
+<br>
+<h2> Sobre mi </h2>
+<!--Intro start-->
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
+<p align="left">
+🎓 ESTUDIANTE DE INGENIERIA EN DESARROLLO Y GESTION DE SOFTWARE
+
+🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a estudio 👻
+
+💻 unos cuántos años de experiencia en el proceso de desarrollo de software 🙈
+
+📫 Contacto: **kadashuhia@gmail.com**
+<!--Intro end-->
+  </p>
   
-- 🌱 Actualmente mejorando mis habilidades en **Desarrollo Web**
-    
-- 💻 Interesado en **Inteligencia Artificial, Ciberseguridad y Automatización de Procesos**  
-
-- 💬 Pregúntame sobre **Desarrollo web, PHP, JavaScript, Laravel, etc.**  
-
-- ⚡ Dato curioso: **Siempre explorando nuevas tecnologías y creando proyectos**  
-
-</td>
-
-<td width="50%" align="center">
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-</td>
-</tr>
-</table>
 
 ---
 
