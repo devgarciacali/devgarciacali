@@ -25,11 +25,9 @@
 
 📫 Contacto: **kadashuhia@gmail.com**
 <!--Intro end-->
-  </p>
-  
 
+</p>
 ---
-
 ## 🌍 Conecta conmigo
 
 <p align="center"> 
