@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=devgarcia&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="devgarcia" /> 
 </p>
 
-<br>
+
 <h2> Sobre mi </h2>
 <!--Intro start-->
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
