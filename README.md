@@ -23,10 +23,10 @@
 
 💻 unos cuántos años de experiencia en el proceso de desarrollo de software 🙈
 
-📫 Contacto: **kadashuhia@gmail.com**
 <!--Intro end-->
 
 </p>
+<br>
 
 
 ---
