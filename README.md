@@ -17,7 +17,7 @@
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 <p align="left">
-🎓 ESTUDIANTE DE INGENIERIA EN DESARROLLO Y GESTION DE SOFTWARE
+🎓 INGENIERO EN DESARROLLO Y GESTION DE SOFTWARE
 
 🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a estudio 👻
 
